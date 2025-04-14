@@ -1,0 +1,15 @@
+# node_modules
+client/node_modules/
+server/node_modules/
+
+# builds
+client/build/
+client/dist/
+server/build/
+server/dist/
+
+# temp & system
+.DS_Store
+*.log
+.env
+.vscode/
